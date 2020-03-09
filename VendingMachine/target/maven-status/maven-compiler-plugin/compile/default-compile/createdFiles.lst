@@ -1,0 +1,17 @@
+com\mycompany\vendingmachine\App.class
+com\mycompany\vendingmachine\controller\VendingMachineController.class
+com\mycompany\vendingmachine\data\VendingMachineAuditDao.class
+com\mycompany\vendingmachine\ui\ConsoleIO.class
+com\mycompany\vendingmachine\Snack.class
+com\mycompany\vendingmachine\data\VendingMachineFileDao.class
+com\mycompany\service\NotFoundException.class
+com\mycompany\vendingmachine\ui\VendingMachineView.class
+com\mycompany\vendingmachine\data\VendingMachineDao.class
+com\mycompany\vendingmachine\ui\UserIO.class
+com\mycompany\service\InsufficientFundsException.class
+com\mycompany\service\Change.class
+com\mycompany\service\NoItemInventoryException.class
+com\mycompany\service\VendingMachineService.class
+com\mycompany\vendingmachine\data\DataException.class
+com\mycompany\service\VendingMachineException.class
+com\mycompany\service\VendingMachineService$SnackStubDao.class

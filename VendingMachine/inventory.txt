@@ -1,0 +1,4 @@
+1,Hot Cheetos,1.50,2
+2,Lays,1.63,1
+3,Kitkat,2.56,2
+4,Snickers,5.41,14
